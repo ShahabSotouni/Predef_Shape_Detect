@@ -1,0 +1,3 @@
+/home/autmav/imgprc/shapedetect/CMakeFiles/edit_cache.dir
+/home/autmav/imgprc/shapedetect/CMakeFiles/rebuild_cache.dir
+/home/autmav/imgprc/shapedetect/CMakeFiles/shapedetect.dir

@@ -1,0 +1,3 @@
+/home/autmav/imgprc/test01/CMakeFiles/edit_cache.dir
+/home/autmav/imgprc/test01/CMakeFiles/rebuild_cache.dir
+/home/autmav/imgprc/test01/CMakeFiles/DisplayImage.dir

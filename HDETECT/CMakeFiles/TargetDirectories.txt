@@ -1,0 +1,3 @@
+/home/autmav/imgprc/HDETECT/CMakeFiles/rebuild_cache.dir
+/home/autmav/imgprc/HDETECT/CMakeFiles/edit_cache.dir
+/home/autmav/imgprc/HDETECT/CMakeFiles/Hdetect.dir

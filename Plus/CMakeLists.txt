@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( plusdetect )
+find_package( OpenCV REQUIRED )
+add_executable( plusdetect plusdetect.cpp )
+target_link_libraries( plusdetect ${OpenCV_LIBS} )

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( Hdetect )
+find_package( OpenCV REQUIRED )
+add_executable( Hdetect Hdetect.cpp )
+target_link_libraries( Hdetect ${OpenCV_LIBS} )

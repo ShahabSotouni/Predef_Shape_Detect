@@ -1,0 +1,3 @@
+/home/autmav/imgprc/Plus/CMakeFiles/edit_cache.dir
+/home/autmav/imgprc/Plus/CMakeFiles/rebuild_cache.dir
+/home/autmav/imgprc/Plus/CMakeFiles/plusdetect.dir

@@ -1,0 +1,3 @@
+/home/autmav/imgprc/obstacle/CMakeFiles/rebuild_cache.dir
+/home/autmav/imgprc/obstacle/CMakeFiles/edit_cache.dir
+/home/autmav/imgprc/obstacle/CMakeFiles/shape.dir
